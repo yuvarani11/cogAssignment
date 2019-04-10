@@ -1,0 +1,29 @@
+{
+  "name": "stud",
+  "version": "1.0.0",
+  "description": "API Server",
+  "main": "index.js",
+  "author": "Yuvarani",
+  "license": "ISC",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "babel": "^5.8.38",
+    "chai": "^4.2.0",
+    "dotenv": "^5.0.1",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.0.12",
+    "hapi": "^17.3.1",
+    "hapi-swagger": "^9.1.1",
+    "inert": "^5.1.0",
+    "leche": "^2.2.3",
+    "mocha": "^6.1.2",
+    "promise-mysql": "^3.3.1",
+    "request": "*",
+    "supertest": "^4.0.2",
+    "underscore": "^1.9.0",
+    "vision": "^5.3.2",
+    "witch": "^1.0.3"
+  }
+}
